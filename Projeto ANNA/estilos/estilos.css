@@ -1,0 +1,48 @@
+body{
+    background-image: url(/imagens/fundo.png);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(155, 106, 43);
+    font-weight: bold;
+    padding: 5px;
+    margin: 2px;
+}
+
+h2{
+    color: #828271;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+.img-camp{
+    border: 10px solid #c3c3ae;
+}
+
+
+#principal{
+    width: 900px;
+}
+
+#menu{
+    background-color: #c5c5b2;
+    font-size: 25px;
+    padding: 20px;
+    
+}
+
+#sobre{
+    background-color: #ebe2dc;
+    padding: 10px;
+
+}
+
+#footer{
+    background-color: rgb(231, 198, 198)
+}
+
